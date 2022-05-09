@@ -188,7 +188,7 @@
     <div class="container">
         <div class="box">
             <div class="heading"></div>
-            <form class="login-form" action="/try/imp.php" method="post">
+            <form class="login-form" action="/trial/imp.php" method="post">
                 <div class="field">
                     <input name="email" id="username" type="name" placeholder="Phone number, username, or email" />
                     <label for="username">Phone number, username, or email</label>
